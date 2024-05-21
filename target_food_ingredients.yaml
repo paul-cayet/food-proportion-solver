@@ -1,0 +1,32 @@
+final_product_nutritional:
+  Carbohydrate: 50
+  Dietary fiber: 0
+  Energy: 448
+  Fat: 26
+  Protein: 3.6
+  Salt: 0.54
+  saturated fatty acids: 2.9
+  sugars: 22
+ingredients:
+- rapeseed_oil
+- sugar
+- egg
+- wheat_starch
+- flour
+- potato_starch
+- powdered_milk
+- glucose_syrup
+- salt
+- lemon_juice
+initial_guess:
+- 100
+- 150
+- 120
+- 50
+- 100
+- 30
+- 20
+- 40
+- 5
+- 35
+known_quantities: {}
