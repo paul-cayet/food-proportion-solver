@@ -1,4 +1,4 @@
-# food-proportion-solver <img src="cake.png" alt="drawing" width="40" style="vertical-align:bottom"/>
+# food-proportion-solver <img src="cake.png" alt="drawing" width="40" style="vertical-align:middle"/>
 
 A Python tool to reverse engineer food quantities from an ingredient list and nutritional values.
 
